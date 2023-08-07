@@ -5,7 +5,7 @@ This is a news website built with newsAPI that will show the latest news.
 
 How to run the project:
 1. Download the zip and extract it
-2. Open in terminal the extracted folder(on doing 'ls', you will see 2 folders client and server)
+2. Open in terminal the extracted folder(on doing 'ls', you should see 2 folders client and server)
 3. Run the following code in the terminal:
 
    
